@@ -1,0 +1,32 @@
+C:\Users\Alex\source\repos\tela login\tela login\bin\Debug\netcoreapp3.1\tela login.exe
+C:\Users\Alex\source\repos\tela login\tela login\bin\Debug\netcoreapp3.1\tela login.deps.json
+C:\Users\Alex\source\repos\tela login\tela login\bin\Debug\netcoreapp3.1\tela login.runtimeconfig.json
+C:\Users\Alex\source\repos\tela login\tela login\bin\Debug\netcoreapp3.1\tela login.runtimeconfig.dev.json
+C:\Users\Alex\source\repos\tela login\tela login\bin\Debug\netcoreapp3.1\tela login.dll
+C:\Users\Alex\source\repos\tela login\tela login\bin\Debug\netcoreapp3.1\tela login.pdb
+C:\Users\Alex\source\repos\tela login\tela login\obj\Debug\netcoreapp3.1\tela login.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\tela login\tela login\obj\Debug\netcoreapp3.1\tela login.csproj.GenerateResource.cache
+C:\Users\Alex\source\repos\tela login\tela login\obj\Debug\netcoreapp3.1\tela login.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\tela login\tela login\obj\Debug\netcoreapp3.1\tela login.AssemblyInfo.cs
+C:\Users\Alex\source\repos\tela login\tela login\obj\Debug\netcoreapp3.1\tela login.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\tela login\tela login\obj\Debug\netcoreapp3.1\tela login.dll
+C:\Users\Alex\source\repos\tela login\tela login\obj\Debug\netcoreapp3.1\tela login.pdb
+C:\Users\Alex\source\repos\tela login\tela login\obj\Debug\netcoreapp3.1\tela login.genruntimeconfig.cache
+C:\Users\Alex\source\repos\tela login\tela login\obj\Debug\netcoreapp3.1\tela_login.telalogin.resources
+C:\Users\Alex\source\repos\tela login\tela login\obj\Debug\netcoreapp3.1\tela_login.Properties.Resources.resources
+E:\estudos gabi\PIM\tela login\tela login\bin\Debug\netcoreapp3.1\tela login.exe
+E:\estudos gabi\PIM\tela login\tela login\bin\Debug\netcoreapp3.1\tela login.deps.json
+E:\estudos gabi\PIM\tela login\tela login\bin\Debug\netcoreapp3.1\tela login.runtimeconfig.json
+E:\estudos gabi\PIM\tela login\tela login\bin\Debug\netcoreapp3.1\tela login.runtimeconfig.dev.json
+E:\estudos gabi\PIM\tela login\tela login\bin\Debug\netcoreapp3.1\tela login.dll
+E:\estudos gabi\PIM\tela login\tela login\bin\Debug\netcoreapp3.1\tela login.pdb
+E:\estudos gabi\PIM\tela login\tela login\obj\Debug\netcoreapp3.1\tela login.csprojAssemblyReference.cache
+E:\estudos gabi\PIM\tela login\tela login\obj\Debug\netcoreapp3.1\tela_login.telalogin.resources
+E:\estudos gabi\PIM\tela login\tela login\obj\Debug\netcoreapp3.1\tela_login.Properties.Resources.resources
+E:\estudos gabi\PIM\tela login\tela login\obj\Debug\netcoreapp3.1\tela login.csproj.GenerateResource.cache
+E:\estudos gabi\PIM\tela login\tela login\obj\Debug\netcoreapp3.1\tela login.AssemblyInfoInputs.cache
+E:\estudos gabi\PIM\tela login\tela login\obj\Debug\netcoreapp3.1\tela login.AssemblyInfo.cs
+E:\estudos gabi\PIM\tela login\tela login\obj\Debug\netcoreapp3.1\tela login.csproj.CoreCompileInputs.cache
+E:\estudos gabi\PIM\tela login\tela login\obj\Debug\netcoreapp3.1\tela login.dll
+E:\estudos gabi\PIM\tela login\tela login\obj\Debug\netcoreapp3.1\tela login.pdb
+E:\estudos gabi\PIM\tela login\tela login\obj\Debug\netcoreapp3.1\tela login.genruntimeconfig.cache
